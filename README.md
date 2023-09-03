@@ -17,4 +17,5 @@ I learn a lot of stuff related to data science skills. This bootcamp has 10 spri
 - Essential Python for Data Analyst
 - Dasshboard
 
+- You can find me on LinkedIn https://www.linkedin.com/in/muhammad-yusoh-862784289/
   
