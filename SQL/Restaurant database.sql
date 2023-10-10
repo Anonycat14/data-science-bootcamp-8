@@ -1,4 +1,4 @@
--- to open database --
+-- to open database ---
 .open restaurant.db
 
 -- to create table and columns, then insert the data --
